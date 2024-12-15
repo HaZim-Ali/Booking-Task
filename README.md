@@ -26,17 +26,17 @@ Booking-Task
 │   │       │   ├── pageBase.java
 │   │       │   └── SearchPage.java
 │   ├── test
-│       └── java
-│           └── dataProvider
-│               └── data.json
-
-│           └── testPackage
-│               └── AutoTest.java
-│               └── TestClass.java
-
+│   │    └── java
+│   │        └── dataProvider
+│   │            └── data.json
+│   │
+│   │        └── testPackage
+│   │            └── AutoTest.java
+│   │            └── TestClass.java
+│   │
 │   │       └── utilities
 │   │           └── jsonReader.java
-
+│   │
 ├── testng.xml
 └── pom.xml
 ```
