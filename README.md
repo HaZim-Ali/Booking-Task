@@ -154,9 +154,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Developed by **Hazim Aly Khalifa**. Feel free to reach out for feedback or questions:
+Developed by **Eng.Hazim Aly**. Feel free to reach out for feedback or questions:
 - **Email:** [hazimaly5@gmail.com](mailto:hazimaly5@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
+- **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/hazim-aly-161476325)
 
 ---
 
